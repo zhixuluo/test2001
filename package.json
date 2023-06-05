@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "webpack-cli": "^4.9.1"
+  },
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
+}
